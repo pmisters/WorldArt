@@ -1,0 +1,174 @@
+HTTP/1.1 200 OK
+Server: nginx
+Date: Tue, 10 Aug 2010 14:37:34 GMT
+Content-Type: text/html; charset=windows-1251
+Connection: close
+Set-Cookie: Apache=78.84.179.104.1281451054205800; path=/; expires=Wed, 10-Aug-11 14:37:34 GMT
+X-Powered-By: PHP/5.3.3
+
+
+<html><head>
+<title>Поиск по сайту</title>
+<link href='style.css' type='text/css' rel='stylesheet'>
+<meta name='robots' content='noindex'>
+<meta http-equiv='Content-Type' content='text/html; charset=windows-1251'>
+</head><body bottomMargin='0' bgColor='#ffffff' leftMargin='0' topMargin='0' rightMargin='0'marginwidth='0' marginheight='0'>
+<center><a href='http://www.argut.net/' target=new><img src='../bipack/fghj.jpg' border=0 width=1004></a></center><table width=1004 cellpadding=0 cellspacing=0 border=0 height=1><tr><td></td></tr></table>
+<center>
+<table bgcolor=#990000 width=1004 cellpadding=0 cellspacing=0 border=0 height=70>
+<tr>
+<td width=5></td>
+<td Valign=top>&nbsp;&nbsp;&nbsp;&nbsp;<a href='../'><img src='../../img/logo.gif' alt='World Art - сайт о кино, сериалах, литературе, аниме, играх, живописи и архитектуре.' width=213 height=59 border=0>
+</a></td>
+<form action='../search.php' method='get'>
+<td align=right>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font color=#ffffff><b>поиск:</b> </font>
+<input class='web' name='name' value='Начало' type='text' style='width:191'>
+<br>
+<font color=#ffffff><b>в разделе:</b> <select name='global_sector' class='web' style=width:138>
+<option value='all' class='web'>по всему сайту</option><option value=all class='web'>------------</option><OPTION class=web value='animation'>анимация</option><OPTION class=web value='architecture'>архитектура</option><OPTION class=web value='games'>видеоигры</option><OPTION class=web value='cinema'>кино</option><OPTION class=web value='lyric'>литература</option><OPTION class=web value='manga'>манга</option><OPTION class=web value='painting'>живопись</option><OPTION class=web value='people'>персоны</option><OPTION class=web value='company'>компании</option>
+</select>
+<input type=submit value='Поиск' style='width:50; font-family: Verdana; font-size: 12px; border:1 px; margin-top:1px;'>
+</td>
+<td width=5></td>
+</form>
+</tr>
+</table>
+
+<table height=1 width=1004 cellpadding=0 cellspacing=0 border=0 bgcolor=#5D0E0E>
+<tr>
+<td></td>
+</tr>
+</table>
+
+<table height=23 width=1004 border=0 bgcolor=#781111 cellpadding=0 cellspacing=0 border=0>
+<tr>
+<td width=20></td>
+
+<td width=64 bgcolor=#5D0E0E>&nbsp;&nbsp;<font color='ffffff'><b><a href='../cinema/' class='main_page'>Кино и ТВ</a>&nbsp;</td>
+<td width=1 bgcolor=#5D0E0E></td>
+
+<td width=40>&nbsp;&nbsp;<font color='ffffff'><b><a href='../animation/' class='main_page'>Анимация</a>&nbsp;&nbsp;</td>
+<td width=1 bgcolor=#5D0E0E></td>
+
+<td width=40>&nbsp;&nbsp;<font color='ffffff'><b><a href='../games/' class='main_page'>Видеоигры</a>&nbsp;&nbsp;</td>
+<td width=1 bgcolor=#5D0E0E></td>
+
+<td width=40>&nbsp;&nbsp;<font color='ffffff'><b><a href='../lyric/' class='main_page'>Литература</a>&nbsp;&nbsp;</td>
+<td width=1 bgcolor=#5D0E0E></td>
+
+<td width=40>&nbsp;<font color='ffffff'><b><a href='../painting/' class='main_page'>Живопись</a>&nbsp;</td>
+<td width=1 bgcolor=#5D0E0E></td>
+
+<td width=40>&nbsp;<font color='ffffff'><b><a href='../architecture/' class='main_page'>Архитектура</a>&nbsp;</td>
+<td width=1 bgcolor=#5D0E0E></td>
+
+<td align=right><b><a href='http://www.world-art.ru/enter.php' class='main_page'>Вход в систему</a></b>&nbsp;</td>
+<td width=1 bgcolor=#5D0E0E></td>
+<td width=55><b>&nbsp;&nbsp;<a href='http://www.world-art.ru/regstart.php' class='main_page'>Регистрация</a></b>&nbsp;&nbsp;</td>
+
+</tr>
+
+</table>
+
+<table height=1 width=1004 cellpadding=0 cellspacing=0 border=0 bgcolor=#5D0E0E>
+<tr>
+<td></td>
+</tr>
+</table>
+
+<table height=23 width=1004 border=0 cellpadding=0 cellspacing=0 border=0>
+<tr>
+<td border=0 bgcolor=#5D0E0E >
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<font color='ffffff'>
+<a href='../cinema/review.php' class='main_page'>Рецензии и биографии</a> | 
+<a href='../cinema/rating.php' class='main_page'>Рейтинги кино и сериалов</a> |
+<a href='../cinema/trailer.php' class='main_page'>Видеоролики и трейлеры</a> |
+<a href='../cinema/list.php' class='main_page'>База данных по кино</a> |
+<a href='../cinema/release_russia.php' class='main_page'>Скоро на экранах страны</a>
+</font>
+&nbsp;&nbsp;
+</td>
+<td border=0></td>
+</tr>
+</table>
+<table height=23 width=1004 border=0 cellpadding=0 cellspacing=0 border=0><tr><td border=0 bgcolor=#440606 align=right><font color='ffffff'><a href='../regstart.php' class='main_page' style=text-decoration:underline>тип аккаунта</a>: гостевой</font>&nbsp;&nbsp;</td><td border=0></td></tr></table><table width=1004 height=58% cellpadding=0 cellspacing=0 border=0 bgcolor=#ffffff><tr><td Valign=top><table width=100% height=100% cellpadding=0 cellspacing=0><tr><td cellspacing=0 cellpadding=0 border=1 class=line width=1><td width=10></td><td Valign=top width=240><br><br><noindex><EMBED type='application/x-shockwave-flash' src='../bipack/114.swf' height='400' width='240' border='0' pluginspage='http://www.adobe.com/go/getflashplayer'></noindex><br><br></td><td width=20></td><td Valign=top><br><br><table width=100%><tr><td><font size=2 color=#99000><b>Раздел &laquo;кино и телесериалы&raquo;</font></b></td></tr></table><table cellpadding=0 cellspacing=0 border=0 width=700><tr><td width=2></td><td bgcolor=#000000 width=698></td></tr></table><table width=100%><tr><td>отсортировано по дате выхода</td></tr></table><br><table width=100%><tr><td><a href = "cinema/cinema.php?id=15047" class='estimation'>Люди Икс: Начало. Магнито (2012, США)</a><br><br></td></tr><tr><td><a href = "cinema/cinema.php?id=23649" class='estimation'>Начало (2010, США)</a><br><br></td></tr><tr><td><a href = "cinema/cinema.php?id=15046" class='estimation'>Люди Икс. Начало: Росомаха (2009, Австралия)</a><br><br></td></tr><tr><td><a href = "cinema/cinema.php?id=23166" class='estimation'>Начало времен (2009, США)</a><br><br></td></tr><tr><td><a href = "cinema/cinema.php?id=21462" class='estimation'>Ларго Винч: начало (2008, Франция)</a><br><br></td></tr><tr><td><a href = "cinema/cinema.php?id=20414" class='estimation'>Вороны: Начало (2007, Япония)</a><br><br></td></tr><tr><td><a href = "cinema/cinema.php?id=16979" class='estimation'>Техасская резня бензопилой: начало (2006, США)</a><br><br></td></tr><tr><td><a href = "cinema/cinema.php?id=4829" class='estimation'>Бэтмэн: Начало (2005, США)</a><br><br></td></tr><tr><td><a href = "cinema/cinema.php?id=19158" class='estimation'><b>Сериал &laquo;Это началось с поцелуя&raquo;</b> (2005, Тайвань)</a><br><br></td></tr><tr><td><a href = "cinema/cinema.php?id=4130" class='estimation'>Изгоняющий дьявола: Начало (2004, США)</a><br><br></td></tr><tr><td><a href = "cinema/cinema.php?id=28597" class='estimation'>Сердце дракона: Начало (2000, США)</a><br><br></td></tr><tr><td><a href = "cinema/cinema.php?id=28268" class='estimation'>Каспер: Начало (1997, США)</a><br><br></td></tr><tr><td><a href = "cinema/cinema.php?id=20091" class='estimation'><b>Сериал &laquo;Это началось с поцелуя&raquo;</b> (1996, Япония)</a><br><br></td></tr><tr><td><a href = "cinema/cinema.php?id=9028" class='estimation'>Начало дня (1993, США)</a><br><br></td></tr><tr><td><a href = "cinema/cinema.php?id=20777" class='estimation'>Психоз 4: Начало (1990, США)</a><br><br></td></tr><tr><td><a href = "cinema/cinema.php?id=5906" class='estimation'>Пятница, 13-ое. Часть 5: Новое начало (1985, США)</a><br><br></td></tr><tr><td><a href = "cinema/cinema.php?id=9655" class='estimation'>Без вести пропавшие 2: Начало (1985, США)</a><br><br></td></tr><tr><td><a href = "cinema/cinema.php?id=11633" class='estimation'>Начало (1970, СССР)</a><br><br></td></tr><tr><td><a href = "cinema/cinema.php?id=3648" class='estimation'>Конец и начало (1963, СССР)</a><br><br></td></tr><tr><td><a href = "cinema/cinema.php?id=2423" class='estimation'>Начало (1961, СССР)</a><br><br></td></tr><tr><td><a href = "cinema/cinema.php?id=13382" class='estimation'>Это началось в Неаполе (1960, США)</a><br><br></td></tr></table><br><br><br><table cellpadding=0 cellspacing=0 border=0><tr><td width=350 Valign=top><p class=review><a href='enter.php' class='review'>Настройте поиск</a> по сайту World Art в зависимости от Ваших предпочтений! Это поможет быстро и удобно искать информацию в разных разделах сайта.</p></td></tr></table></br><br><br><br></td><td cellspacing=0 cellpadding=0 border=1 class=line width=1></tr></table></td></tr></table>
+<table height=1 width=1004 cellpadding=0 cellspacing=0 border=0 bgcolor=#5D0E0E>
+<tr>
+<td></td>
+</tr>
+</table>
+
+<table bgcolor=#990000 width=1004 cellpadding=0 cellspacing=0 border=0 height=50><tr><td>
+<tr>
+<td width=15></td>
+<td Valign=top>
+<br>
+<font color=#ffffff>
+
+<a href='http://www.world-art.ru/advertising.php' class='red'>Реклама на сайте</a><br><br>
+<b>info@world-art.ru</b> - для общих предложений, жалоб, идей<br>
+<b>cinema@world-art.ru</b> - для рассылок по разделу кино, сюда же присылать приглашения на пресс-показы и премьеры, новые трейлеры и кадры к фильмам<br>
+<b>games@world-art.ru</b> - для рассылок по разделу игры<br>
+<b>vip@world-art.ru</b> - для вопросов на тему <a href='http://www.world-art.ru/regvip.php' class='red'>платных аккаунтов</a><br><br>
+
+Основные темы: <a href='../cinema/' class='red'>фильмы</a> и <a href='../cinema/' class='red'>сериалы</a> | <a href='../games/' class='red'>компьютерные игры</a> и <a href='../games/' class='red'>видеоигры</a> | <a href='../animation/' class='red'>аниме</a> и <a href='../animation/' class='red'>манга</a> | <a href='../lyric/' class='red'>литература</a> | <a href='../painting/' class='red'>живопись</a> | <a href='../architecture/' class='red'>архитектура</a><br><br>
+
+Права на оригинальные тексты, а также <b>на подбор</b> и расположение материалов принадлежат OOO &laquo;Уорлд Арт&raquo;, © 2003-2010<br>
+Выкачка сайта c помощью ботов категорически запрещена, ваш ip (или диапазон ip) банится навсегда. Также момент, когда бот начинает копировать сайт, 
+считается моментом нарушения наших авторских прав, что согласно законодательству Российской Федерации об авторских и смежных правах влечет за собой судебное преследование. В связи с этим категорически не рекомендуем запускать пауков на наш сайт.<br>
+<br><br>
+<noindex>
+
+
+
+<!--begin of Top100 logo-->
+<a href="http://top100.rambler.ru/top100/">
+<img src="http://top100-images.rambler.ru/top100/banner-88x31-rambler-gray2.gif" alt="Rambler's Top100" width=88 height=31 border=0></a>
+<!--end of Top100 logo -->
+
+&nbsp;
+
+<!--LiveInternet counter--><script language="JavaScript"><!--
+document.write('<a href="http://www.liveinternet.ru/click" '+
+'target=_blank><img src="http://counter.yadro.ru/hit?t16.4;r'+
+escape(document.referrer)+((typeof(screen)=='undefined')?'':
+';s'+screen.width+'*'+screen.height+'*'+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+';u'+escape(document.URL)+
+';'+Math.random()+
+'" alt="liveinternet.ru: показано число просмотров за 24 часа, посетителей за 24 часа и за сегодн\я" '+
+'border=0 width=88 height=31></a>')//--></script><!--/LiveInternet-->
+
+<!--#include virtual="/li_spider_check.php?site_id=world-art.ru"-->
+
+&nbsp;
+
+<!--Rating@Mail.ru COUNTER--><script language="JavaScript" type="text/javascript"><!--
+d=document;var a='';a+=';r='+escape(d.referrer)
+js=10//--></script><script language="JavaScript1.1" type="text/javascript"><!--
+a+=';j='+navigator.javaEnabled()
+js=11//--></script><script language="JavaScript1.2" type="text/javascript"><!--
+s=screen;a+=';s='+s.width+'*'+s.height
+a+=';d='+(s.colorDepth?s.colorDepth:s.pixelDepth)
+js=12//--></script><script language="JavaScript1.3" type="text/javascript"><!--
+js=13//--></script><script language="JavaScript" type="text/javascript"><!--
+d.write('<a href="http://top.mail.ru/jump?from=630173"'+
+' target=_top><img src="http://top.list.ru/counter'+
+'?id=630173;t=51;js='+js+a+';rand='+Math.random()+
+'" alt="Рейтинг@Mail.ru"'+' border=0 height=31 width=88/><\/a>')
+if(11<js)d.write('<'+'!-- ')//--></script><noscript><a
+target=_top href="http://top.mail.ru/jump?from=630173"><img
+src="http://top.list.ru/counter?js=na;id=630173;t=51"
+border=0 height=31 width=88
+alt="Рейтинг@Mail.ru"/></a></noscript><script language="JavaScript" type="text/javascript"><!--
+if(11<js)d.write('--'+'>')//--></script><!--/COUNTER-->
+
+
+</noindex>
+
+
+</td>
+</tr>
+</table>
+
