@@ -9,6 +9,10 @@ describe 'Worldart::Movie' do
     @movie.url.should == 'http://www.world-art.ru/cinema/cinema.php?id=24154'
   end
   
+  it 'should return id' do
+    @movie.id.should == 24154
+  end
+  
   it 'should return title' do
     @movie.title.should == 'Ученик чародея'
   end
@@ -56,5 +60,19 @@ describe 'Worldart::Movie' do
   
   it 'should return poster' do
     @movie.poster.should == 'http://www.world-art.ru/cinema/img/30000/24154/22.jpg'
+  end
+  
+  context 'missed information' do
+    before :each do
+      @movie = Worldart::Movie.new 26082
+    end
+    
+    it 'should not raise error if movie has no poster' do
+      lambda { @movie.poster }.should_not raise_exception
+    end
+    
+    it 'should not raise error if movie has not rating' do
+      lambda { @movie.rating }.should_not raise_exception
+    end
   end
 end

@@ -18,7 +18,7 @@ module Worldart
     
     def parse_search_result
       document.search("//a[@class='estimation'][@href*=cinema/cinema\.php]").map do |link|
-        id = link['href'][/\d+?/]
+        id = link['href'][/\d+/]
         Worldart::Movie.new id
       end
     end

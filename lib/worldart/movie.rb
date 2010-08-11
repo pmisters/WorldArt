@@ -1,5 +1,7 @@
 module Worldart
   class Movie
+    attr_reader :id
+    
     def initialize(id)
       @id = id.to_i
     end
@@ -47,7 +49,8 @@ module Worldart
     end
     
     def poster
-      src = document.at("//img[@src*=img/converted_images]").attributes['src']
+      src = document.at("//img[@src*=img/converted_images]").attributes['src'] rescue nil
+      return if src.nil?
       src.gsub! 'converted_images_', ''
       src.gsub! /optimize_\w+\//, ''
       src.gsub! /\-optimize_\w+/, ''
@@ -60,7 +63,7 @@ module Worldart
     end
     
     def rating
-      document.at("//font[@size='2']/font[@size='2']").to_plain_text.scan(/Средний балл: (\d+\.\d+)/)[0][0]
+      document.at("//font[@size='2']/font[@size='2']").to_plain_text.scan(/Средний балл: (\d+\.\d+)/)[0][0] rescue nil
     end
     
     def title

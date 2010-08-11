@@ -15,6 +15,7 @@ end
 
 REMOTE_SAMPLES = {
   'http://www.world-art.ru/cinema/cinema.php?id=24154' => '24154',
+  'http://www.world-art.ru/cinema/cinema.php?id=26082' => '26082',
   'http://www.world-art.ru/search.php?global_sector=cinema&name=%CD%E0%F7%E0%EB%EE' => 'search_nacnalo'
 }
 

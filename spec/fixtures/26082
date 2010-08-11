@@ -1,0 +1,410 @@
+HTTP/1.1 200 OK
+Server: nginx
+Date: Wed, 11 Aug 2010 07:44:04 GMT
+Content-Type: text/html; charset=windows-1251
+Connection: close
+Set-Cookie: Apache=78.84.179.104.1281512644678721; path=/; expires=Thu, 11-Aug-11 07:44:04 GMT
+X-Powered-By: PHP/5.3.3
+
+<html><head><title>Деде, сквозь туманы</title><meta http-equiv='Content-Type' content='text/html; charset=windows-1251'><meta name='keywords' content='фильм Деде, сквозь туманы'><meta name='description' content='Деде, сквозь туманы (фильм): рецензия на фильм, кадры из фильма, трейлеры'><meta name='ROBOTS' content='ALL'><link href='../style.css' type='text/css' rel='stylesheet'></head><body bottomMargin='0' bgColor='#ffffff' leftMargin='0' topMargin='0' rightMargin='0' marginwidth='0' marginheight='0'><center><a href='http://www.argut.net/' target=new><img src='../bipack/fghj.jpg' border=0 width=1004></a></center><table width=1004 cellpadding=0 cellspacing=0 border=0 height=1><tr><td></td></tr></table>
+<center>
+<table bgcolor=#990000 width=1004 cellpadding=0 cellspacing=0 border=0 height=70>
+<tr>
+<td width=5></td>
+<td Valign=top>&nbsp;&nbsp;&nbsp;&nbsp;<a href='../'><img src='../../img/logo.gif' alt='World Art - сайт о кино, сериалах, литературе, аниме, играх, живописи и архитектуре.' width=213 height=59 border=0>
+</a></td>
+<form action='../search.php' method='get'>
+<td align=right>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font color=#ffffff><b>поиск:</b> </font>
+<input class='web' name='name' value='' type='text' style='width:191'>
+<br>
+<font color=#ffffff><b>в разделе:</b> <select name='global_sector' class='web' style=width:138>
+<option value='all' class='web'>по всему сайту</option><option value=all class='web'>------------</option><OPTION class=web value='animation'>анимация</option><OPTION class=web value='architecture'>архитектура</option><OPTION class=web value='games'>видеоигры</option><OPTION class=web value='cinema'>кино</option><OPTION class=web value='lyric'>литература</option><OPTION class=web value='manga'>манга</option><OPTION class=web value='painting'>живопись</option><OPTION class=web value='people'>персоны</option><OPTION class=web value='company'>компании</option>
+</select>
+<input type=submit value='Поиск' style='width:50; font-family: Verdana; font-size: 12px; border:1 px; margin-top:1px;'>
+</td>
+<td width=5></td>
+</form>
+</tr>
+</table>
+
+<table height=1 width=1004 cellpadding=0 cellspacing=0 border=0 bgcolor=#5D0E0E>
+<tr>
+<td></td>
+</tr>
+</table>
+
+<table height=23 width=1004 border=0 bgcolor=#781111 cellpadding=0 cellspacing=0 border=0>
+<tr>
+<td width=20></td>
+
+<td width=64 bgcolor=#5D0E0E>&nbsp;&nbsp;<font color='ffffff'><b><a href='../cinema/' class='main_page'>Кино и ТВ</a>&nbsp;</td>
+<td width=1 bgcolor=#5D0E0E></td>
+
+<td width=40>&nbsp;&nbsp;<font color='ffffff'><b><a href='../animation/' class='main_page'>Анимация</a>&nbsp;&nbsp;</td>
+<td width=1 bgcolor=#5D0E0E></td>
+
+<td width=40>&nbsp;&nbsp;<font color='ffffff'><b><a href='../games/' class='main_page'>Видеоигры</a>&nbsp;&nbsp;</td>
+<td width=1 bgcolor=#5D0E0E></td>
+
+<td width=40>&nbsp;&nbsp;<font color='ffffff'><b><a href='../lyric/' class='main_page'>Литература</a>&nbsp;&nbsp;</td>
+<td width=1 bgcolor=#5D0E0E></td>
+
+<td width=40>&nbsp;<font color='ffffff'><b><a href='../painting/' class='main_page'>Живопись</a>&nbsp;</td>
+<td width=1 bgcolor=#5D0E0E></td>
+
+<td width=40>&nbsp;<font color='ffffff'><b><a href='../architecture/' class='main_page'>Архитектура</a>&nbsp;</td>
+<td width=1 bgcolor=#5D0E0E></td>
+
+<td align=right><b><a href='http://www.world-art.ru/enter.php' class='main_page'>Вход в систему</a></b>&nbsp;</td>
+<td width=1 bgcolor=#5D0E0E></td>
+<td width=55><b>&nbsp;&nbsp;<a href='http://www.world-art.ru/regstart.php' class='main_page'>Регистрация</a></b>&nbsp;&nbsp;</td>
+
+</tr>
+
+</table>
+
+<table height=1 width=1004 cellpadding=0 cellspacing=0 border=0 bgcolor=#5D0E0E>
+<tr>
+<td></td>
+</tr>
+</table>
+
+<table height=23 width=1004 border=0 cellpadding=0 cellspacing=0 border=0>
+<tr>
+<td border=0 bgcolor=#5D0E0E >
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<font color='ffffff'>
+<a href='../cinema/review.php' class='main_page'>Рецензии и биографии</a> | 
+<a href='../cinema/rating.php' class='main_page'>Рейтинги кино и сериалов</a> |
+<a href='../cinema/trailer.php' class='main_page'>Видеоролики и трейлеры</a> |
+<a href='../cinema/list.php' class='main_page'>База данных по кино</a> |
+<a href='../cinema/release_russia.php' class='main_page'>Скоро на экранах страны</a>
+</font>
+&nbsp;&nbsp;
+</td>
+<td border=0></td>
+</tr>
+</table>
+<table height=23 width=1004 border=0 cellpadding=0 cellspacing=0 border=0><tr><td border=0 bgcolor=#440606 align=right><font color='ffffff'><a href='../regstart.php' class='main_page' style=text-decoration:underline>тип аккаунта</a>: гостевой</font>&nbsp;&nbsp;</td><td border=0></td></tr></table><table width=1004 height=58% cellpadding=0 cellspacing=0 border=0 bgcolor=#ffffff><tr><td Valign=top><table cellpadding=0 cellspacing=0 border=0 bgcolor=#ebebeb width=100%><tr><td cellspacing=0 cellpadding=0 border=1 class=line width=1></td><td Valign=top align=left class=bg1 width=145><br><table width=145 height=1 cellspacing=0 cellpadding=0 border=0><td class=line></td></tr></table><table width=145 cellspacing=0 cellpadding=2 border=0><tr><td class=bg2>&nbsp;<b>Основная информация</b>:</td></tr></table><table width=145 height=1 cellspacing=0 cellpadding=0 border=0><td class=line></td></tr></table>&nbsp;&nbsp;&#151;&nbsp;<a href = "cinema_full_cast.php?id=26082" >съёмочная группа</a> <font size=1>(25)</font><br>&nbsp;&nbsp;&#151;&nbsp;<a href = "cinema_release.php?id=26082" >релизы и компании</a> <font size=1></font><br>&nbsp;&nbsp;&#151;&nbsp;<font color=#8D8D8D>тематические связи</font><br><br><br><table width=145 height=1 cellspacing=0 cellpadding=0 border=0><td class=line></td></tr></table><table width=145 cellspacing=0 cellpadding=2 border=0><tr><td class=bg2>&nbsp;<b>Промоматериалы</b>:</td></tr></table><table width=145 height=1 cellspacing=0 cellpadding=0 border=0><td class=line></td></tr></table>&nbsp;&nbsp;&#151;&nbsp;<font color=#8D8D8D>официальный сайт</font><br>&nbsp;&nbsp;&#151;&nbsp;<font color=#8D8D8D>постеры и обложки</font><br>&nbsp;&nbsp;&#151;&nbsp;<font color=#8D8D8D>кадры из фильма</font><br>&nbsp;&nbsp;&#151;&nbsp;<font color=#8D8D8D>ролики и трейлеры</font><br><br><br><table width=145 height=1 cellspacing=0 cellpadding=0 border=0><td class=line></td></tr></table><table width=145 cellspacing=0 cellpadding=2 border=0><tr><td class=bg2>&nbsp;<b>На других сайтах</b>:</td></tr></table><table width=145 height=1 cellspacing=0 cellpadding=0 border=0><td class=line></td></tr></table>&nbsp;&nbsp;&#151;&nbsp;<noindex><a href='http://www.imdb.com/title/tt1242845' target='_blank'>IMDB</a></noindex><br>&nbsp;&nbsp;&#151;&nbsp;<font color=#8D8D8D>kinopoisk</font><br>&nbsp;&nbsp;&#151;&nbsp;<font color=#8D8D8D>film.ru</font><br><br><br><table width=145 height=1 cellspacing=0 cellpadding=0 border=0><td class=line></td></tr></table><table width=145 cellspacing=0 cellpadding=2 border=0><tr><td class=bg2>&nbsp;<b>Википедия</b>:</td></tr></table><table width=145 height=1 cellspacing=0 cellpadding=0 border=0><td class=line></td></tr></table>&nbsp;&nbsp;&#151;&nbsp;<font color=#8D8D8D>Wikipedia</font><br>&nbsp;&nbsp;&#151;&nbsp;<font color=#8D8D8D>Википедия</font><br><br><br><table width=145 height=1 cellspacing=0 cellpadding=0 border=0><td class=line></td></tr></table><table width=145 cellspacing=0 cellpadding=2 border=0><tr><td class=bg2>&nbsp;<b>Посетителям сайта</b>:</td></tr></table><table width=145 height=1 cellspacing=0 cellpadding=0 border=0><td class=line></td></tr></table>&nbsp;&nbsp;&#151; <a href='comment_all.php?id=26082&action=1'>написать отзыв</a><br><br><br></td><td cellspacing=0 cellpadding=0 border=1 class=line width=1></td><td bgcolor=#ffffff width=7></td><td height=470 Valign=top bgcolor=#ffffff><table height=4><tr><td></td></tr></table><table cellpadding=0 cellspacing=0 border=0 height=22><tr><td height=9></td></tr><tr><td width=2></td><td background=img/1.jpg width=5 height=22></td><td background=img/2.jpg height=22>&nbsp;<a href='cinema.php?id=26081' class='review' style='text-decoration: none'><</a>&nbsp;</td><td background=img/3.jpg width=5 height=22></td><td width=2></td><td background=img/1.jpg width=5 height=22></td><td background=img/2.jpg height=22>&nbsp;<a href='comment_all.php?id=26082&action=1' class='review' style='text-decoration: none'>написать комментарий</a>&nbsp;</td><td background=img/3.jpg width=5 height=22></td><td width=2></td><td background=img/4.jpg width=5 height=21></td><td background=img/5.jpg height=21><noindex><a href='cinema_update.php?id=26082' class='review' style='text-decoration: none'><font color='white'>внести изменения в страницу</font></a></noindex></td><td background=img/6.jpg width=5 height=21></td><td width=2></td><td background=img/1.jpg width=5 height=22></td><td background=img/2.jpg height=22>&nbsp;<noindex><a href='cinema.php?id=26083' class='review' style='text-decoration: none'>></a></noindex></td><td background=img/3.jpg width=5 height=22></td></tr><tr><td height=6></td></tr></table><table><tr><td Valign=top><table width=440 cellpadding=0 cellspacing=0 border=0><tr><td Valign=top><table cellpadding=0 cellspacing=0 border=0><tr><td><h1 class='h1' style='margin: 0; padding: 0'>Деде, сквозь туманы&nbsp;</h1></tr></td><tr><td><font size=1>D&#xE9;d&#xE9;, &#xE0; travers les brumes</font></tr></td><tr><td><font size=1>Through the Mist</font></tr></td></table></td></tr></table><font size=2><br><b>Производство</b>: <a href='../country.php?id=42' class='estimation'>Канада</a><br><b>Тип</b>: полнометражный фильм<br><b>Жанр</b>: <a href = "list.php?genre=музыкальный фильм" class='estimation'>музыкальный фильм</a><br><br><b>Режиссёр</b>: <a href = "../people.php?id=416882" class='estimation'>Жан-Филипп Дювэл</a><br><b>В ролях</b>:  <a href = "../people.php?id=150989" class='estimation'>Себастьян Рикард</a>,  <a href = "../people.php?id=69262" class='estimation'>Клаудия Ферри</a> и <a href = "cinema_full_cast.php?id=26082" class='estimation'>другие</a><form action='vote_broken.php' method='post' target='_blank'><b>Проголосуйте за этот фильм:</b><br>
+<SELECT NAME='top' class='web'>
+<OPTION>10 - шедевр</option>
+<OPTION>9</option>
+<OPTION>8</option>
+<OPTION>7</option>
+<OPTION>6</option>
+<OPTION selected>5</option>
+<OPTION>4</option>
+<OPTION>3</option>
+<OPTION>2</option>
+<OPTION>1 - плохо</option>
+</SELECT>&nbsp;
+<input type='submit' value='Голосовать' class='web'>
+</form>
+</td></tr></table><br><br><table width=100% cellpadding=0 cellspacing=2 border=0><tr><td><b><font size=2 color=#99000>Даты премьер и релизов:</font></b></td></tr><tr><td width=100% height=1 background='img/pixel.gif'></td></tr></table><table><tr><td><img src=../img/flags/earth.jpg></td><td class=review width=120>в мире</td><td class=review>2009</td></tr></table><table><tr><td>...</td><td></td><td></td></tr><tr><td class=review Valign=top><img src='../img/flags/canada.gif' alt=''></td><td width=120  Valign=top class=review>Канада</td><td class=review  Valign=top>2009.03.13 (выход в прокат)</td></tr><tr><td class=review Valign=top><img src='../img/flags/korea.gif' alt=''></td><td width=120  Valign=top class=review>Южная Корея</td><td class=review  Valign=top>2009.10.08 (Международный кинофестиваль в Пусане)</td></tr><tr><td class=review Valign=top><img src='../img/flags/france.gif' alt=''></td><td width=120  Valign=top class=review>Франция</td><td class=review  Valign=top>2009.12.12 (Кинофестиваль в Париже)</td></tr></table><br><br><table width=100% cellpadding=0 cellspacing=2 border=0><tr><td><b><font size=2 color=#99000>Краткое содержание:</font></b></td></tr><tr><td width=100% height=1 background='img/pixel.gif'></td></tr></table><table width=100%><tr><td><p align=justify class='review'>Лидер «Les Colocs» Андре «Деде» Фортен в 1997 году приезжает вместе с группой в город Эстри для записи третьего альбома «Dehors Novembre». Деде тяжело переживает недавний любовный разрыв, а музыканты проявляют нетерпение и торопят с записью. Деде мечется между душевными волнениями и творчеством. Мыслями он возвращается в родной город Сагеней, вспоминает приезд в Монреаль в 1984 году, учебу в киношколе со своим другом Эриком Анри, встречу с французским музыкантом Патом Эспозито, ставшим одним из основателей «Les Colocs», яркие впечатления от выступлений  группы, горечь поражения на референдуме 1995 г. Несмотря на успех альбома «Dehors Novembre», Деде впадает в депрессию. 8 мая 2000г. он сводит счеты с жизнью в своей квартире в Монреале.</p></td></tr></table><br><br></center><br><table width=100% cellspacing=0 cellpadding=2 border=0><tr><td height=1 background='img/pixel.gif'></td></tr></table><br><table width=100%><tr><td><p class=review align=justify><b>Выборка фильмов из базы данных</b>:</p></td></tr></table><table><tr><td Valign=top><form action='list.php' method='get'><table><tr><td><SELECT NAME='type' class='web' style='width:430'>
+<OPTION value='1'>полнометражный фильм</option>
+<OPTION value='2'>сериал</option>
+<OPTION value='3'>телевизионный фильм</option>
+</SELECT>
+</td><td><b>- тип произведения</b></td></tr>
+<tr><td><SELECT NAME='lit' class='web' style='width:430'>
+<OPTION value=''>не важно</option>
+<OPTION value='1'>А</option>
+<OPTION value='2'>Б</option>
+<OPTION value='3'>В</option>
+<OPTION value='4'>Г</option>
+<OPTION value='5'>Д</option>
+<OPTION value='6'>Е</option>
+<OPTION value='7'>Ж</option>
+<OPTION value='8'>З</option>
+<OPTION value='9'>И</option>
+<OPTION value='10'>К</option>
+<OPTION value='11'>Л</option>
+<OPTION value='12'>М</option>
+<OPTION value='13'>Н</option>
+<OPTION value='14'>О</option>
+<OPTION value='15'>П</option>
+<OPTION value='16'>Р</option>
+<OPTION value='17'>С</option>
+<OPTION value='18'>Т</option>
+<OPTION value='19'>У</option>
+<OPTION value='20'>Ф</option>
+<OPTION value='21'>Х</option>
+<OPTION value='22'>Ц</option>
+<OPTION value='23'>Ч</option>
+<OPTION value='24'>Ш</option>
+<OPTION value='25'>Щ</option>
+<OPTION value='26'>Э</option>
+<OPTION value='27'>Ю</option>
+<OPTION value='28'>Я</option>
+<OPTION value=''>=================</option>
+<OPTION value='29'>A</option>
+<OPTION value='30'>B</option>
+<OPTION value='31'>C</option>
+<OPTION value='32'>D</option>
+<OPTION value='33'>E</option>
+<OPTION value='34'>F</option>
+<OPTION value='35'>G</option>
+<OPTION value='36'>H</option>
+<OPTION value='37'>I</option>
+<OPTION value='38'>J</option>
+<OPTION value='39'>K</option>
+<OPTION value='40'>L</option>
+<OPTION value='41'>M</option>
+<OPTION value='42'>N</option>
+<OPTION value='43'>O</option>
+<OPTION value='44'>P</option>
+<OPTION value='45'>Q</option>
+<OPTION value='46'>R</option>
+<OPTION value='47'>S</option>
+<OPTION value='48'>T</option>
+<OPTION value='49'>U</option>
+<OPTION value='50'>V</option>
+<OPTION value='51'>W</option>
+<OPTION value='52'>X</option>
+<OPTION value='53'>Y</option>
+<OPTION value='54'>Z</option>
+</SELECT>
+</td><td><b>- по алфавиту</b></td></tr>
+<tr><td><SELECT NAME='year' class='web' style='width:430'>
+<OPTION value=''>не важно</option>
+<OPTION>2010</option>
+<OPTION>2009</option>
+<OPTION>2008</option>
+<OPTION>2007</option>
+<OPTION>2006</option>
+<OPTION>2005</option>
+<OPTION>2004</option>
+<OPTION>2003</option>
+<OPTION>2002</option>
+<OPTION>2001</option>
+<OPTION>2000</option>
+<OPTION>1999</option>
+<OPTION>1998</option>
+<OPTION>1997</option>
+<OPTION>1996</option>
+<OPTION>1995</option>
+<OPTION>1994</option>
+<OPTION>1993</option>
+<OPTION>1992</option>
+<OPTION>1991</option>
+<OPTION>1990</option>
+<OPTION>1989</option>
+<OPTION>1988</option>
+<OPTION>1987</option>
+<OPTION>1986</option>
+<OPTION>1985</option>
+<OPTION>1984</option>
+<OPTION>1983</option>
+<OPTION>1982</option>
+<OPTION>1981</option>
+<OPTION>1980</option>
+<OPTION>1979</option>
+<OPTION>1978</option>
+<OPTION>1977</option>
+<OPTION>1976</option>
+<OPTION>1975</option>
+<OPTION>1974</option>
+<OPTION>1973</option>
+<OPTION>1972</option>
+<OPTION>1971</option>
+<OPTION>1970</option>
+<OPTION>1969</option>
+<OPTION>1968</option>
+<OPTION>1967</option>
+<OPTION>1966</option>
+<OPTION>1965</option>
+<OPTION>1964</option>
+<OPTION>1963</option>
+<OPTION>1962</option>
+<OPTION>1961</option>
+<OPTION>1960</option>
+<OPTION>1959</option>
+<OPTION>1958</option>
+<OPTION>1957</option>
+<OPTION>1956</option>
+<OPTION>1955</option>
+<OPTION>1954</option>
+<OPTION>1953</option>
+<OPTION>1952</option>
+<OPTION>1951</option>
+<OPTION>1950</option>
+<OPTION>1949</option>
+<OPTION>1948</option>
+<OPTION>1947</option>
+<OPTION>1946</option>
+<OPTION>1945</option>
+<OPTION>1944</option>
+<OPTION>1943</option>
+<OPTION>1942</option>
+<OPTION>1941</option>
+<OPTION>1940</option>
+<OPTION>1939</option>
+<OPTION>1938</option>
+<OPTION>1937</option>
+<OPTION>1936</option>
+<OPTION>1935</option>
+<OPTION>1934</option>
+<OPTION>1933</option>
+<OPTION>1932</option>
+<OPTION>1931</option>
+<OPTION>1930</option>
+<OPTION>1929</option>
+<OPTION>1928</option>
+<OPTION>1927</option>
+<OPTION>1926</option>
+<OPTION>1925</option>
+<OPTION>1924</option>
+<OPTION>1923</option>
+<OPTION>1922</option>
+<OPTION>1921</option>
+<OPTION>1920</option>
+<OPTION>1919</option>
+<OPTION>1918</option>
+<OPTION>1917</option>
+<OPTION>1916</option>
+<OPTION>1915</option>
+<OPTION>1914</option>
+<OPTION>1913</option>
+<OPTION>1912</option>
+<OPTION>1911</option>
+<OPTION>1910</option>
+<OPTION>1909</option>
+<OPTION>1908</option>
+<OPTION>1907</option>
+<OPTION>1906</option>
+<OPTION>1905</option>
+<OPTION>1904</option>
+<OPTION>1903</option>
+<OPTION>1902</option>
+<OPTION>1901</option>
+<OPTION>1900</option>
+<OPTION>1899</option>
+<OPTION>1898</option>
+<OPTION>1897</option>
+<OPTION>1896</option>
+<OPTION>1895</option>
+<OPTION>1894</option>
+</SELECT>
+</td><td><b>- год выхода</b></td></tr>
+<tr><td><SELECT NAME='country' class='web' style='width:430'><option value=''>не важно</option><option value=''>===============</option><option>Россия</option><option>СССР</option><option>США</option><option>Япония</option><option value=''>===============</option><option>Австралия</option><option>Австрия</option><option>Азербайджан</option><option>Албания</option><option>Алжир</option><option>Аргентина</option><option>Армения</option><option>Афганистан</option><option>Беларусь</option><option>Бельгия</option><option>Болгария</option><option>Боливия</option><option>Босния и Герцеговина</option><option>Ботсвана</option><option>Бразилия</option><option>Великобритания</option><option>Венгрия</option><option>Венесуэла</option><option>Вьетнам</option><option>Германия</option><option>Греция</option><option>Грузия</option><option>Дания</option><option>Египет</option><option>Зимбабве</option><option>Израиль</option><option>Индия</option><option>Индонезия</option><option>Ирак</option><option>Иран</option><option>Ирландия</option><option>Исландия</option><option>Испания</option><option>Италия</option><option>Казахстан</option><option>Канада</option><option>Кения</option><option>Кипр</option><option>Китай</option><option>Колумбия</option><option>Куба</option><option>Латвия</option><option>Ливан</option><option>Ливия</option><option>Литва</option><option>Лихтенштейн</option><option>Люксембург</option><option>Мавритания</option><option>Македония</option><option>Мальта</option><option>Марокко</option><option>Мексика</option><option>Молдавия</option><option>Монако</option><option>Монголия</option><option>Намибия</option><option>Непал</option><option>Нигерия</option><option>Нидерланды</option><option>Новая Зеландия</option><option>Норвегия</option><option>Пакистан</option><option>Панама</option><option>Перу</option><option>Польша</option><option>Португалия</option><option>Пуэрто-Рико</option><option>Россия</option><option>Румыния</option><option>Сербия и Черногория</option><option>Сингапур</option><option>Сирия</option><option>Словакия</option><option>Словения</option><option>США</option><option>Таджикистан</option><option>Таиланд</option><option>Тайвань</option><option>Тунис</option><option>Турция</option><option>Узбекистан</option><option>Украина</option><option>Уругвай</option><option>Филиппины</option><option>Финляндия</option><option>Франция</option><option>Хорватия</option><option>Чехия</option><option>Чили</option><option>Швейцария</option><option>Швеция</option><option>Эстония</option><option>Южная Корея</option><option>Южно-Африканская Республика</option><option>Япония</option></SELECT></td><td  align=left><b>- страна</b></td></tr><tr><td><SELECT NAME='genre' class='web' style='width:430'>
+<OPTION value=''>не важно</option>
+<OPTION value='22'>анимация</option>
+<OPTION value='1'>биографический фильм</option>
+<OPTION value='2'>вестерн</option>
+<OPTION value='3'>военный фильм</option>
+<OPTION value='4'>драма</option>
+<OPTION value='5'>детектив</option>
+<OPTION value='6'>документальный фильм</option>
+<OPTION value='7'>исторический фильм</option>
+<OPTION value='8'>кинофантазия</option>
+<OPTION value='9'>комедия</option>
+<OPTION value='10'>криминальный фильм</option>
+<OPTION value='11'>мелодрама</option>
+<OPTION value='12'>музыкальный фильм</option>
+<OPTION value='13'>нуар</option>
+<OPTION value='14'>приключенческий фильм</option>
+<OPTION value='15'>семейный фильм</option>
+<OPTION value='16'>спортивный фильм</option>
+<OPTION value='17'>триллер</option>
+<OPTION value='18'>фантастика</option>
+<OPTION value='19'>фильм действия</option>
+<OPTION value='20'>фильм ужасов</option>
+<OPTION value='21'>фильм для взрослых</option>
+</SELECT>
+</td><td><b>- жанр</b></td></tr>
+<tr><td><SELECT NAME='sort' class='web' style='width:430'>
+<OPTION value='1'>по рейтингу</option>
+<OPTION value='3'>сначала самые новые</option>
+<OPTION value='6'>сначала самые старые</option>
+<OPTION value='2'>по заходам на страницы</option>
+<OPTION value='4'>в алфавитном порядке</option>
+<OPTION value='5'>по дате добавления в базу данных WA</option>
+</SELECT>
+</td><td><b>- тип сортировки списка</b></td></tr>
+
+<tr><td>
+<input type='submit' value='отобразить список фильмов' class='web'>
+</form>
+</td><td>
+</td></tr></table></td></tr></table></center><center><br>
+
+</center><br><br><td bgcolor=#ffffff width=7></td><td cellspacing=0 cellpadding=0 border=1 class=line width=1></td><td width=5 class=bg1></td><td width=240 Valign=top align=center class=bg1><br><noindex><EMBED type='application/x-shockwave-flash' src='../bipack/112.swf' height='400' width='240' border='0' pluginspage='http://www.adobe.com/go/getflashplayer'></noindex><br><br></td><td width=5 class=bg1></td><td cellspacing=0 cellpadding=0 border=1 class=line width=1></td></tr></table></td></tr></table>
+<table height=1 width=1004 cellpadding=0 cellspacing=0 border=0 bgcolor=#5D0E0E>
+<tr>
+<td></td>
+</tr>
+</table>
+
+<table bgcolor=#990000 width=1004 cellpadding=0 cellspacing=0 border=0 height=50><tr><td>
+<tr>
+<td width=15></td>
+<td Valign=top>
+<br>
+<font color=#ffffff>
+
+<a href='http://www.world-art.ru/advertising.php' class='red'>Реклама на сайте</a><br><br>
+<b>info@world-art.ru</b> - для общих предложений, жалоб, идей<br>
+<b>cinema@world-art.ru</b> - для рассылок по разделу кино, сюда же присылать приглашения на пресс-показы и премьеры, новые трейлеры и кадры к фильмам<br>
+<b>games@world-art.ru</b> - для рассылок по разделу игры<br>
+<b>vip@world-art.ru</b> - для вопросов на тему <a href='http://www.world-art.ru/regvip.php' class='red'>платных аккаунтов</a><br><br>
+
+Основные темы: <a href='../cinema/' class='red'>фильмы</a> и <a href='../cinema/' class='red'>сериалы</a> | <a href='../games/' class='red'>компьютерные игры</a> и <a href='../games/' class='red'>видеоигры</a> | <a href='../animation/' class='red'>аниме</a> и <a href='../animation/' class='red'>манга</a> | <a href='../lyric/' class='red'>литература</a> | <a href='../painting/' class='red'>живопись</a> | <a href='../architecture/' class='red'>архитектура</a><br><br>
+
+Права на оригинальные тексты, а также <b>на подбор</b> и расположение материалов принадлежат OOO &laquo;Уорлд Арт&raquo;, © 2003-2010<br>
+Выкачка сайта c помощью ботов категорически запрещена, ваш ip (или диапазон ip) банится навсегда. Также момент, когда бот начинает копировать сайт, 
+считается моментом нарушения наших авторских прав, что согласно законодательству Российской Федерации об авторских и смежных правах влечет за собой судебное преследование. В связи с этим категорически не рекомендуем запускать пауков на наш сайт.<br>
+<br><br>
+<noindex>
+
+
+
+<!--begin of Top100 logo-->
+<a href="http://top100.rambler.ru/top100/">
+<img src="http://top100-images.rambler.ru/top100/banner-88x31-rambler-gray2.gif" alt="Rambler's Top100" width=88 height=31 border=0></a>
+<!--end of Top100 logo -->
+
+&nbsp;
+
+<!--LiveInternet counter--><script language="JavaScript"><!--
+document.write('<a href="http://www.liveinternet.ru/click" '+
+'target=_blank><img src="http://counter.yadro.ru/hit?t16.4;r'+
+escape(document.referrer)+((typeof(screen)=='undefined')?'':
+';s'+screen.width+'*'+screen.height+'*'+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+';u'+escape(document.URL)+
+';'+Math.random()+
+'" alt="liveinternet.ru: показано число просмотров за 24 часа, посетителей за 24 часа и за сегодн\я" '+
+'border=0 width=88 height=31></a>')//--></script><!--/LiveInternet-->
+
+<!--#include virtual="/li_spider_check.php?site_id=world-art.ru"-->
+
+&nbsp;
+
+<!--Rating@Mail.ru COUNTER--><script language="JavaScript" type="text/javascript"><!--
+d=document;var a='';a+=';r='+escape(d.referrer)
+js=10//--></script><script language="JavaScript1.1" type="text/javascript"><!--
+a+=';j='+navigator.javaEnabled()
+js=11//--></script><script language="JavaScript1.2" type="text/javascript"><!--
+s=screen;a+=';s='+s.width+'*'+s.height
+a+=';d='+(s.colorDepth?s.colorDepth:s.pixelDepth)
+js=12//--></script><script language="JavaScript1.3" type="text/javascript"><!--
+js=13//--></script><script language="JavaScript" type="text/javascript"><!--
+d.write('<a href="http://top.mail.ru/jump?from=630173"'+
+' target=_top><img src="http://top.list.ru/counter'+
+'?id=630173;t=51;js='+js+a+';rand='+Math.random()+
+'" alt="Рейтинг@Mail.ru"'+' border=0 height=31 width=88/><\/a>')
+if(11<js)d.write('<'+'!-- ')//--></script><noscript><a
+target=_top href="http://top.mail.ru/jump?from=630173"><img
+src="http://top.list.ru/counter?js=na;id=630173;t=51"
+border=0 height=31 width=88
+alt="Рейтинг@Mail.ru"/></a></noscript><script language="JavaScript" type="text/javascript"><!--
+if(11<js)d.write('--'+'>')//--></script><!--/COUNTER-->
+
+
+</noindex>
+
+&nbsp;<!--Art House COUNTER--><a href='http://www.arthouse.ru' target=new><img src=img/art-house.gif width=88 height=31 border=0 alt='Art House'></a><!--/COUNTER-->
+</td>
+</tr>
+</table>
+
