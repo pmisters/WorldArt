@@ -20,7 +20,7 @@ Spec::Rake::SpecTask.new(:spec) do |s|
   s.spec_files = FileList['spec/**/*_spec.rb']
 end
 
-Echoe.new('wordart', File.read('VERSION').strip) do |g|
+Echoe.new('worldart', File.read('VERSION').strip) do |g|
   g.author = 'Pavel Musolin'
   g.email = 'pavel@harizma.lv'
   g.description = 'Access the public information on World-Art.ru'
