@@ -32,10 +32,13 @@ module Worldart
     
     def director
       result = []
-      stop_flag = false
-      document.at("//b[text()='Режиссёр']").following_siblings.each do |e|
-        stop_flag = true if e.inner_text == 'В ролях'
-        result << e.inner_text if e.to_html =~ /\.\.\/people\.php/ && stop_flag == false
+      begin
+        stop_flag = false
+        document.at("//b[text()='Режиссёр']").following_siblings.each do |e|
+          stop_flag = true if e.inner_text == 'В ролях'
+          result << e.inner_text if e.to_html =~ /\.\.\/people\.php/ && stop_flag == false
+        end
+      rescue NoMethodError
       end
       result
     end
